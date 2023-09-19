@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-artl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joao-artl" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-artl&show_icons=true&locale=en&hide=html,css&layout=compact&theme=tokyonight" alt="joao-artl" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&locale=en&theme=tokyonight" alt="joao-artl" /></p>
 <!--
 Here are some ideas to get you started:
