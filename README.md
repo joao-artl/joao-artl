@@ -1,10 +1,10 @@
 # Hi there 👋
 
 <a href="https://github.com/joao-artl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight" height="185" alt="João Artur Leles's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight" height="200" alt="João Artur Leles's GitHub Stats" />
 </a>
 <a href="https://github.com/joao-artl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html&layout=compact&theme=tokyonight" height="185" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html&layout=compact&theme=tokyonight" height="200" />
 </a>
 
 ## Linguagens e Ferramentas:
