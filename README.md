@@ -1,10 +1,10 @@
 # Hi there 👋
 
 <a href="https://github.com/joao-artl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight" height="200" alt="João Artur Leles's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight" height="175" alt="João Artur Leles's GitHub Stats" />
 </a>
 <a href="https://github.com/joao-artl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html&layout=compact&theme=tokyonight" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html&layout=compact&theme=tokyonight" height="175" />
 </a>
 
 ## Linguagens e Ferramentas:
@@ -26,7 +26,7 @@
 ## Contato:
 <div> 
   <a href = "mailto:jalxpinheiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a [href="https://br.linkedin.com/in/jo%C3%A3o-artur-leles-3172b3271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-artur-leles-3172b3271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--### Hi there 👋
