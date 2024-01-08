@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo ao meu perfil 👋
 
-Olá! Meu nome é João Artur Leles, atualmente sou discente na Universidade de Brasília (UnB), cursando Engenharia de Software. Participei do Projeto de Residência em TIC, promovido pela BRISA em parceria com a SOFTEX, onde comecei a estudar sobre Machine Learning. Atualmente, estou buscando aprender mais sobre essa área.
+Olá! Meu nome é João Artur Leles, atualmente sou discente na Universidade de Brasília (UnB), cursando Engenharia de Software. Participei do Projeto de Residência em TIC, promovido pela BRISA, onde comecei a estudar Machine Learning. Atualmente, estou buscando aprender mais sobre essa área.
 
 ## Desempenho Pessoal:
 <a href="https://github.com/joao-artl">
