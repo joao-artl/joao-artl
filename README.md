@@ -1,10 +1,13 @@
-# Hi there 👋
+# Olá, seja bem-vindo ao meu perfil 👋
 
+Olá! Meu nome é João Artur Leles, atualmente sou discente na Universidade de Brasília (UnB), cursando Engenharia de Software. Participei do Projeto de Residência em TIC, promovido pela BRISA em parceria com a SOFTEX, onde comecei a estudar sobre Machine Learning. Atualmente, estou buscando aprender mais sobre essa área.
+
+## Desempenho Pessoal:
 <a href="https://github.com/joao-artl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight" height="200" alt="João Artur Leles's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight" height="190" alt="João Artur Leles's GitHub Stats" />
 </a>
 <a href="https://github.com/joao-artl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html&layout=compact&theme=tokyonight" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html&layout=compact&theme=tokyonight" height="190" />
 </a>
 
 ## Linguagens e Ferramentas:
