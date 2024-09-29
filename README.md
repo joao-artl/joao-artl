@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight" height="190" alt="João Artur Leles's GitHub Stats" />
   </a>
   <a href="https://github.com/joao-artl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html&layout=compact&theme=tokyonight" height="190" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html,css&layout=compact&theme=tokyonight" height="190" />
   </a>
 </div>
 <div align="center">
