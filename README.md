@@ -7,7 +7,7 @@
 ## Desempenho Pessoal:
 <div align="center">
   <a href="https://github.com/joao-artl">
-    <img src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight" height="190" alt="João Artur Leles's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=joao-artl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="190" alt="João Artur Leles's GitHub Stats" />
   </a>
   <a href="https://github.com/joao-artl">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-artl&hide=html,css&layout=compact&theme=tokyonight" height="190" />
