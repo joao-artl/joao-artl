@@ -18,18 +18,30 @@
 </div>
 
 ## Linguagens e Ferramentas:
-[![Blog](https://icongr.am/devicon/python-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/c-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/cplusplus-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/java-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/javascript-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/html5-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/css3-original.svg?size=40&color=ffffff)]()
 
-  [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-  [![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img alt="Python" height="50" width="50" src="https://icongr.am/devicon/python-original.svg?size=40&color=ffffff">
+  <img alt="Django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img alt="R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img alt="Java" height="50" width="50" src="https://icongr.am/devicon/java-original.svg?size=40&color=ffffff">
+  <img alt="JavaScript" height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=ffffff">
+  <img alt="TypeScript" height="50" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff">
+  <img alt="HTML" height="50" width="50" src="https://icongr.am/devicon/html5-original.svg?size=40&color=ffffff">
+  <img alt="CSS" height="50" width="50" src="https://icongr.am/devicon/css3-original.svg?size=40&color=ffffff">
+  <img alt="C" height="50" width="50" src="https://icongr.am/devicon/c-original.svg?size=40&color=ffffff">
+  <img alt="C++" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg?size=40&color=ffffff">
+  <img alt="Lua" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+</div>
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+<br>
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens)](https://jwt.io/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ## Contato:
 <div> 
