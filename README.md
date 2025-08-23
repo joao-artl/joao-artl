@@ -29,13 +29,14 @@
   <img alt="CSS" height="50" width="50" src="https://icongr.am/devicon/css3-original.svg?size=40&color=ffffff">
   <img alt="C" height="50" width="50" src="https://icongr.am/devicon/c-original.svg?size=40&color=ffffff">
   <img alt="C++" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg?size=40&color=ffffff">
+  <img alt="Lua" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0B456F?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 <br>
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
